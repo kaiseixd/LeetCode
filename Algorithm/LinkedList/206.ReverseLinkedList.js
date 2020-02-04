@@ -1,12 +1,12 @@
-var reverseList = function(head) {
-  if (!head) return null
-  var node = head
-  while (head.next) {
-    let temp = head.next.next
-    let lastNode = node
-    node = head.next
-    head.next.next = lastNode
-    head.next = temp
+var reverseList = function (head) {
+  let oldHead = head
+  let newHead = null
+  let nextHead
+  while (oldHead !== null) {
+    nextHead = oldHead.next
+    oldHead.next = newHead
+    newHead = oldHead
+    oldHead = nextHead
   }
-  return node
-};
+  return newHead
+}
