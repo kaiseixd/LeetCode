@@ -5,6 +5,18 @@
 // 慢指针走了 '直线路程 + 环的一部分'
 // 说明 '环' === '直线路程 + 环的一部分'
 // 说明 '环剩下的部分' === '直线路程'
+
+/**
+ * Definition for singly-linked list.
+ * function ListNode(val) {
+ *     this.val = val;
+ *     this.next = null;
+ * }
+ */
+/**
+ * @param {ListNode} head
+ * @return {ListNode}
+ */
 var detectCycle = function(head) {
   if(!head || !head.next) return null
   var slow = head
