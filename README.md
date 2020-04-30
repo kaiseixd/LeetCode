@@ -4,9 +4,9 @@
 ## Algorithm
 ### Array
 * Two-Pointer
-  * [11. Container With Most Water](./Algorithm/LinkedList/11.ContainerWithMostWater.js)
-  * [15. 3Sum](./Algorithm/LinkedList/15.3Sum.js)
-  * [283. Move Zeroes](./Algorithm/LinkedList/283.MoveZeroes.js)
+  * [11. Container With Most Water](./Algorithm/Array/11.ContainerWithMostWater.js)
+  * [15. 3Sum](./Algorithm/Array/15.3Sum.js)
+  * [283. Move Zeroes](./Algorithm/Array/283.MoveZeroes.js)
 ### Linked List
 * Classic
   * [206. Reverse Linked List](./Algorithm/LinkedList/206.ReverseLinkedList.js)
