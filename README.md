@@ -3,9 +3,13 @@
 
 ## Algorithm
 ### Array
+* Classic
+  * [189. Rotate Array](Algorithm/Array/189.RotateArray.js)
 * Two-Pointer
   * [11. Container With Most Water](./Algorithm/Array/11.ContainerWithMostWater.js)
   * [15. 3Sum](./Algorithm/Array/15.3Sum.js)
+  * [26. Remove Duplicates from Sorted Array](./Algorithm/Array/26.RemoveDuplicatesFromSortedArray.js)
+  * [88. Merge Sorted Array](Algorithm/Array/88.MergeSortedArray.js)
   * [283. Move Zeroes](./Algorithm/Array/283.MoveZeroes.js)
 ### Linked List
 * Classic
