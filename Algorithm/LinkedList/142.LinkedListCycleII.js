@@ -1,5 +1,5 @@
 // 142.LinkedListCycleII
-// two-pointer
+// Two-Pointer
 // 使用一个 two-step 指针和一个 one-step 指针，追上说明是重复
 // 快指针走了 '直线路程 + 环的一部分 + 整个环'
 // 慢指针走了 '直线路程 + 环的一部分'
