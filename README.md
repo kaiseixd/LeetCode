@@ -23,10 +23,11 @@
 * Medium
   * [142. Linked List Cycle II](./Algorithm/LinkedList/142.LinkedListCycleII.js)
 
-### Greddy
+### Greedy
 * Eazy
   * [122. Best Time to Buy and Sell Stock II](Algorithm/Greedy/122.BestTimetoBuyandSellStockII.js)
 * Medium
   * [55. Jump Game](Algorithm/Greedy/55.JumpGame.js)
+  * [322. Coin Change](Algorithm/Greedy/322.CoinChange.js)
 * Hard
   * [45. Jump Game II](Algorithm/Greedy/45.JumpGameII.js)
