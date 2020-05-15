@@ -1,4 +1,5 @@
 // Two-Pointer
+// 左右夹逼
 // 移动大值指针总是会比之前小，所以移动小的
 
 var maxArea = function(height) {
