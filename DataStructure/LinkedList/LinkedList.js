@@ -9,6 +9,6 @@ class ListNode {
     while (node.next) {
       node = node.next;
     }
-    node.next = new ListNode(val);
+    return node.next = new ListNode(val);
   }
 }
