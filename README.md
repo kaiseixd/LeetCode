@@ -30,17 +30,25 @@
   * [278. First Bad Version](Algorithm/BinarySearch/278.FirstBadVersion.js)
 * Medium
   * [74. Search a 2D Matrix](Algorithm/BinarySearch/74.Searcha2DMatrix.js)
+* Hard
+  * [154. Find Minimum in Rotated Sorted Array II](Algorithm/BinarySearch/154.find-minimum-in-rotated-sorted-array-ii.js)
 
 ### Linked List
 * Two-Pointer Technique
   * Given a linked list, determine if it has a cycle in it.
 * Eazy
   * [21. Merge Two Sorted Lists](./Algorithm/LinkedList/21.MergeTwoSortedLists.js)
+  * [141. Linked List Cycle](Algorithm/LinkedList/141.linked-list-cycle.js)
   * [160. Intersection of Two Linked Lists](./Algorithm/LinkedList/160.IntersectionOfTwoLinkedLists.js)
   * [206. Reverse Linked List](./Algorithm/LinkedList/206.ReverseLinkedList.js)
   * [234. Palindrome Linked List](./Algorithm/LinkedList/234.PalindromeLinkedList.js)
 * Medium
+  * [82. Remove Duplicates from Sorted List II](Algorithm/LinkedList/82.remove-duplicates-from-sorted-list-ii.js)
+  * [86. Partition List](Algorithm/LinkedList/86.partition-list.js)
+  * [92. Reverse Linked List II](Algorithm/LinkedList/92.reverse-linked-list-ii.js)
+  * [138. Copy List with Random Pointer](Algorithm/LinkedList/138.copy-list-with-random-pointer.js)
   * [142. Linked List Cycle II](./Algorithm/LinkedList/142.LinkedListCycleII.js)
+  * [148. Sort List](Algorithm/LinkedList/148.sort-list.js)
 
 ### Greedy
 * Eazy
@@ -55,3 +63,10 @@
 ### Traverse
 * Medium
   * [200. Number of Islands](Algorithm/Traverse/200.NumberOfIslands.js)
+
+### Tree
+* Eazy
+  * [104. Maximum Depth of Binary Tree](Algorithm/Tree/104.maximum-depth-of-binary-tree.js)
+  * [110. Balanced Binary Tree](Algorithm/Tree/110.balanced-binary-tree.js)
+* Hard
+  * [124. Binary Tree Maximum Path Sum](Algorithm/Tree/124.binary-tree-maximum-path-sum.js)
