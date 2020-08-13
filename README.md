@@ -11,7 +11,14 @@
 * Medium
   * [11. Container With Most Water](./Algorithm/Array/11.ContainerWithMostWater.js)
   * [15. 3Sum](./Algorithm/Array/15.3Sum.js)
-  
+
+### Binary Search
+* Eazy
+  * [35. Search Insert Position](Algorithm/BinarySearch/35.SearchInsertPosition.js)
+  * [278. First Bad Version](Algorithm/BinarySearch/278.FirstBadVersion.js)
+* Medium
+  * [74. Search a 2D Matrix](Algorithm/BinarySearch/74.Searcha2DMatrix.js)
+
 ### Linked List
 * Two-Pointer Technique
   * Given a linked list, determine if it has a cycle in it.
